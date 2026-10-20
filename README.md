@@ -1,6 +1,6 @@
-# Maja Payment Connectors
+# Maja Payment Connectors (GLOBAL)
 
-Payment connector scripts & libraries for integrating with the **Maja Payment Service**, across multiple programming languages.
+Payment connector scripts & libraries for integrating with the **Maja Payment Service (GLOBAL)**, across multiple programming languages.
 
 ---
 
