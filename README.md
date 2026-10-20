@@ -10,23 +10,11 @@ Payment connector scripts & libraries for integrating with the **Maja Payment Se
 |----------|--------|--------|
 | Go       | [`/go`](./go)         | ✅ Stable |
 | Java     | [`/java`](./java)     | ✅ Stable |
-| Node.js  | [`/nodejs`](./nodejs) | ✅ Stable |
-| PHP      | [`/php`](./php)       | ✅ Stable |
-| Python   | [`/python`](./python) | 🚧 Beta   |# Maja Payment Connectors
-
-Payment connector scripts & libraries for integrating with the **Maja Payment Service**, across multiple programming languages.
-
----
-
-## 📦 Available Connectors
-
-| Language | Folder | Status |
-|----------|--------|--------|
-| Go       | [`/go`](./go)         | ✅ Stable |
-| Java     | [`/java`](./java)     | ✅ Stable |
+| Rust     | [`/rust`](./rust)     | ✅ Stable |
 | Node.js  | [`/nodejs`](./nodejs) | ✅ Stable |
 | PHP      | [`/php`](./php)       | ✅ Stable |
 | Python   | [`/python`](./python) | 🚧 Beta   |
+
 
 ---
 
